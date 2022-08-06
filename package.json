@@ -1,0 +1,23 @@
+{
+  "name": "anzhiyu-static",
+  "version": "1.0.0",
+  "description": "anzhiyu static file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anzhiyu-c/anzhiyu-static.git"
+  },
+  "keywords": [
+    "static",
+    "file"
+  ],
+  "author": "anzhiyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anzhiyu-c/anzhiyu-static/issues"
+  },
+  "homepage": "https://github.com/anzhiyu-c/anzhiyu-static#readme"
+}
